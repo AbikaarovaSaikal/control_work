@@ -1,6 +1,6 @@
-.vscode
-venv
-.venv
-.idea
+.vscode/
+venv/
+.venv/
+.idea/
 __pycache__
-practice
+practice/
